@@ -8,12 +8,12 @@ public class Menus {
         System.out.printf("\t| |                                       | |\n");
         System.out.printf("\t| |                                       | |\n");
         System.out.printf("\t| |                                       | |\n");
-        System.out.printf("\t| |                  POO                  | |\n");
+        System.out.printf("\t| |         PROJETO BANCO DE DADOS        | |\n");
         System.out.printf("\t| |                                       | |\n");
-        System.out.printf("\t| |                 BANKER                | |\n");
+        System.out.printf("\t| |              BD PARA BANCO            | |\n");
         System.out.printf("\t| |                                       | |\n");
-        System.out.printf("\t| |            GABRIEL D'NILLO            | |\n");
-        System.out.printf("\t| |            MATEUS  COLARES            | |\n");
+        System.out.printf("\t| |            HENRIQUE SALOMAO           | |\n");
+        System.out.printf("\t| |            JOAO VICTOR NERI           | |\n");
         System.out.printf("\t| |              JOAO MARCELO             | |\n");
         System.out.printf("\t| |                                       | |\n");
         System.out.printf("\t| |_______________________________________| |\n");
